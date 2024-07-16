@@ -18,6 +18,24 @@
 
 I have used here Atmega 328p microcontroller ic to send AT commands to board for gps and gsm communication. As shown in demo video, if blue push button is pressed more than 5 seconds than current location coordinates is fetched through gps satellite and is converted in form of google map link with "I'm here ! HELP " message string; is send to registerd mobile number. Just after sending message a call is established between 'HERO' and registerd mobile number and another person can converse with user. I have given mic and speaker quality test in demo video wherein HERO is using very small speaker that could be heard only if take this device near your ears. 350mA rechargeable battery is used where it gives standby mode power of around 20 days and normal usage gives upto 17 days battery backup but if it is used continously for more than 30 minutes than it gives battery backup of hardly one day. By pressing the green push button user can get acknowledgement of remaining battery capacity by blinking rgb led with different colours for different battery capacity in percentage.
 
+## **Features-**
+
+1. Avalaible in Key-chain size
+2. User Friendly
+3. One button click for all functions
+4. Maximun 100 gm weight
+5. Standby mode power of 20 days
+6. Full charge in 15 minutes
+7. Quality microphone and speaker
+8. Connects with satellite simultaneously for gps and gsm.
+9. Accuracy in location of about 98%.
+10. Immediate calling function to registered number
+11. Maximum of 5 seconds delay in messaging and calling
+12. Can work continously  activating calling feature on upto maximum 30 minutes per charging cycle
+13. Requires 2g sim card
+14. Requires nominal recharge to that simcard.
+15. Shows Battery capacity with different rgb leds.
+16. Ergodic and robust design
 
 <table align="center">
   <tr>
@@ -70,3 +88,16 @@ I have used here Atmega 328p microcontroller ic to send AT commands to board for
     <td>No need of much maintainence</td>
   </tr>
 </table>
+
+
+## **Key Skills-**
+
+- ➤ C Language
+- ➤ Arduino programming 
+- ➤ Serial Communications
+- ➤ Circuit simulation and designing tool- Easyeda
+
+ 
+
+
+
