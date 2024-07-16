@@ -64,7 +64,7 @@ I have used here Atmega 328p microcontroller ic to send AT commands to board for
     <td>Quality microphone and speakere</td>
   </tr>
    <tr>
-    <td>Accuracy in location</td>
+    <td>Accuracy od location fetching is of 97 %</td>
   </tr>
    <tr>
     <td>No need of much maintainence</td>
