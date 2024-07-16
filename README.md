@@ -12,7 +12,7 @@
 4. RGB led
 5. Push Buttons
 6. Speaker
-7. Sim Card
+7. 2g Sim Card
 
 ## **Working-**
 
