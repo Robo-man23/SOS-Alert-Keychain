@@ -34,7 +34,7 @@ I have used here Atmega 328p microcontroller ic to send AT commands to board for
   </tr>
   <tr>
     <td>20 days Standby mode </td>
-    <td>Efficiency is achieved upto 96 % </td>
+    <td>Efficiency is achieved upto 96 % only</td>
   </tr>
   <tr>
     <td>Full charge in 15 minutes</td>
