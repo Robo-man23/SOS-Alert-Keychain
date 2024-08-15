@@ -9,7 +9,7 @@ SoftwareSerial Serial1(10, 11); // RX, TX // For A9G Board
 #define SLEEP_PIN 2 // Make this pin HIGH to make A9G board to go to sleep mode
 #define bat 4
 
-String SOS_NUM = "+919978814860"; // Add a number on which you want to receive call or SMS
+String SOS_NUM = "+91xxxxxxxxxx"; // Add a number on which you want to receive call or SMS
 
 int SOS_Time = 5; // Press the button 5 sec
 
